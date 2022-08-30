@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @MuriloWeyne
-- 👀 I’m interested in automating basic tasks using programming
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on automating tasks by creating intelligent software.
+<h2>Welcome to my GitHub Profile! <img src='https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif' width=20px></img></h2>
 
-<!---
-MuriloWeyne/MuriloWeyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ℹ️ I'm Murilo, a computer engineering student from Brazil!
+
+💡  Currently learning Python and looking forward to learning TypeScript, React and Node.js!
+
+❤️ I love developing automation software to make life easier.
+
+<h2> Here are some of my stats: </h2>
+
+<a href="https://github.com/murilo-weyne/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloWeyne&show_icons=true&theme=tokyonight" width=415px/>
+</a>
+
+<a href="https://github.com/murilo-weyne/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloWeyne&theme=tokyonight&layout=compact"/>
+</a>
