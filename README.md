@@ -37,4 +37,4 @@
 </div>
 
 ## 🕐 Yearly activity
-<img src="https://raw.githubusercontent.com/MuriloWeyne/MuriloWeyne/23571f69277c7fef9c3af7b5ce42644344bfe538/profile-3d-contrib/profile-night-view.svg" width=50% height=50%>
+<img src="https://raw.githubusercontent.com/MuriloWeyne/MuriloWeyne/23571f69277c7fef9c3af7b5ce42644344bfe538/profile-3d-contrib/profile-night-view.svg" width=70% height=70%>
