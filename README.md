@@ -26,8 +26,15 @@
 ---
 
 ## ⭐ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuriloWeyne&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloWeyne&layout=compact&theme=tokyonight&size_weight=0&count_weight=1)
+
+<div>
+  
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuriloWeyne&show_icons=true&theme=tokyonight">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloWeyne&layout=compact&theme=tokyonight&size_weight=0&count_weight=1" height=195px>
+  
+</div>
 
 ## 🕐 Yearly activity
-<img src="https://raw.githubusercontent.com/MuriloWeyne/MuriloWeyne/23571f69277c7fef9c3af7b5ce42644344bfe538/profile-3d-contrib/profile-night-view.svg" width=75% height=75%>
+<img src="https://raw.githubusercontent.com/MuriloWeyne/MuriloWeyne/23571f69277c7fef9c3af7b5ce42644344bfe538/profile-3d-contrib/profile-night-view.svg" width=50% height=50%>
