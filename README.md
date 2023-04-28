@@ -4,7 +4,7 @@
 
 ----
 
-## 🚀 Minhas Skills
+> 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -23,11 +23,11 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" alt="OpenCv"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino"/></code>
 
-
-
-
-
 ---
 
 ## ⭐ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuriloWeyne&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuriloWeyne&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloWeyne&layout=compact&theme=tokyonight&size_weight=0&count_weight=1)
+
+## 🕐 Yearly activity
+<img src="https://raw.githubusercontent.com/MuriloWeyne/MuriloWeyne/23571f69277c7fef9c3af7b5ce42644344bfe538/profile-3d-contrib/profile-night-view.svg" width=75% height=75%>
