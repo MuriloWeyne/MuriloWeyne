@@ -30,9 +30,9 @@
 <div>
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloWeyne&show_icons=true&theme=tokyonight">
+<img src="https://readmestats-uav7.vercel.app/api?username=MuriloWeyne&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloWeyne&layout=compact&theme=tokyonight&size_weight=0&count_weight=1" height=195px>
+<img src="https://readmestats-uav7.vercel.app/api/top-langs/?username=MuriloWeyne&layout=compact&theme=tokyonight&size_weight=0&count_weight=1" height=195px>
   
 </div>
 
