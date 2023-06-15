@@ -1,7 +1,5 @@
 ## Olá, meu nome é <strong>Murilo!</strong>
 
-> Sou estudante de engenharia da computação no Insper. Atualmente no 5o semestre do curso, buscando oportunidades para colocar os conteúdos acumulados em prática.
-
 ----
 
 ## 🚀 Minhas Skills
